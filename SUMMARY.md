@@ -6,4 +6,5 @@
 * [Parte 2 - Conceitos básicos de Ruby](parte_2.md)
 * [Parte 3 - Mão na Massa!](parte_3.md)
 * [Parte 4 - Outros operadores](parte_4.md)
+* Parte 5 - Alguns desafios
 
