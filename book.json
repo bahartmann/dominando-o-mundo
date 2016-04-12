@@ -4,6 +4,6 @@
     }
     
     "pdf": {
-        "footerTemplate": footerText
+        "footerTemplate": "PROJETO TUTORAS - projetotutoras.com | contato@projetotutoras.com | fb.com/projetotutoras | @projetotutoras"
     }
 }
