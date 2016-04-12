@@ -7,5 +7,5 @@
 * [Parte 3 - Mão na Massa!](parte_3.md)
 * [Parte 4 - Outros operadores](parte_4.md)
 * [Parte 5 - Alguns desafios](parte_5.md)
-* Parte 6 - E agora?
+* [Parte 6 - E agora?](parte_6.md)
 
