@@ -1,5 +1,5 @@
 # Summary
 
-* [Introdução](README.md)
+* [Sobre esse tutorial](README.md)
 * [Apresentação](chapter1.md)
 
