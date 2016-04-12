@@ -1,9 +1,9 @@
-## Parte 3 - Mão na Massa!
+# Parte 3 - Mão na Massa!
 Agora que já está tudo configurado e você já sabe alguma operações do Ruby (uhul!), vamos fazer algo na prática!
 
 > **Dica** → Enquando você segue as instruções, tente escrever o código ao invés de copiar e colar. Isso vai ajudar a memorizar os comandos mais facilmente.
 
-#### Rodando um programa Ruby
+## Rodando um programa Ruby
 
 1. Na linha de comando, digite o seguinte:
 `atom meus_programas/primeiro_programa.rb`. O Atom deve abrir com um arquivo em branco.
@@ -18,7 +18,7 @@ Agora que já está tudo configurado e você já sabe alguma operações do Ruby
 
 4. Volte para a linha de comando e rode `ruby meus_programas/primeiro_programa.rb`. Está vendo a mensagem que você digitou? Você rodou seu primeiro programa! =)
 
-#### Interagindo com a usuária
+## Interagindo com a usuária
 
 1. No Atom, adicione as seguintes linhas no seu programa:
 
@@ -39,7 +39,7 @@ Agora que já está tudo configurado e você já sabe alguma operações do Ruby
 
 5. Salve seu programa e volte para a linha de comando para rodar ele. Veja o que acontece quando você executa o programa e digite um nome. Legal, né? Vamos continuar!
 
-#### Criando uma calculadora de tempo
+## Criando uma calculadora de tempo
 
 Você quer saber quantos dias faltam para o seu próximo aniversário? Ou quantos dias faltam para acabar o ano? Podemos fazer nosso programa calcular isso! Veja
 como:
@@ -91,7 +91,7 @@ próximo aniversário, por exemplo. Rode de novo com outras datas.
 
 Hora do próximo passo!
 
-#### Utilizando condicionais
+## Utilizando condicionais
 
 Observe que se quem estiver utilizando nosso programa colocar uma data distante, o número de dias não é o ideal para calcular o tempo. Para melhorar isso, podemos mostrar esse tempo em meses ao invés de usar dias. Veja como:
 
