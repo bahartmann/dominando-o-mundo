@@ -5,3 +5,5 @@ Além do email **barbarahartma@gmail.com**, você pode me encontrar no [Facebook
 
 Está com dúvida? Encontrou um erro? Quer dar feedback? Fale comigo!
 
+
+![{{book.}}](rodape.png)
