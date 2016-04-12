@@ -1,6 +1,5 @@
 {
     "variables": {
-        "myVariable": "Este tutorial foi gentilmente elaborado por Bárbara Hartmann (barbarahartma@gmail.com | github.com/bahartmann) para utilização nas tutorias do Projeto Tutoras.
-Saiba mais sobre o projeto em projetotutoras.com | fb.com/projetotutoras | @projetotutoras."
+        "footerText": "PROJETO TUTORAS - projetotutoras.com | contato@projetotutoras.com | fb.com/projetotutoras | @projetotutoras"
     }
 }
