@@ -1,8 +1,4 @@
-{
-    "variables": {
-        "footerText": "PROJETO TUTORAS - projetotutoras.com | contato@projetotutoras.com | fb.com/projetotutoras | @projetotutoras"
-    }
-    
+{   
     "pdf": {
         "footerTemplate": "PROJETO TUTORAS - projetotutoras.com | contato@projetotutoras.com | fb.com/projetotutoras | @projetotutoras"
     }
