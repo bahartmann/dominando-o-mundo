@@ -1,5 +1,6 @@
 {
     "pdf": {
-        "footerTemplate": "Footer HTML template. Available variables: _PAGENUM_, _TITLE_, _AUTHOR_ and _SECTION_."
+        "footerTemplate": "Este tutorial foi gentilmente elaborado por Bárbara Hartmann (barbarahartma@gmail.com | github.com/bahartmann) para utilização nas tutorias do Projeto Tutoras.
+Saiba mais sobre o projeto em projetotutoras.com | fb.com/projetotutoras | @projetotutoras."
     }
 }
