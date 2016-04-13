@@ -1,5 +1,5 @@
-{   
+{
     "pdf": {
-        "footerTemplate": "PROJETO TUTORAS - projetotutoras.com | contato@projetotutoras.com | fb.com/projetotutoras | @projetotutoras"
+        "footerTemplate": "Footer HTML template. Available variables: _PAGENUM_, _TITLE_, _AUTHOR_ and _SECTION_."
     }
 }
